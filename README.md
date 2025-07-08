@@ -1,15 +1,11 @@
 <h1 align="center">I'm Connor</h1>
 <h3 align="center">A passionate developer from Florida</h3>
 
-- 🔭 I’m currently working on [ChapterOne](https://github.com/connor-giles/ChapterOne)
-
-- 🌱 I’m currently learning **JavaScript, Flask, React, AWS**
-
-- 💬 Ask me about **_Python_**
-
-- 📫 How to reach me **connor.giles@protonmail.com**
-
-- ⚡ Fun fact **I love to travel, and think it has helped make me the person I am today**
+📖 I’m currently working on [ChapterOne](https://github.com/connor-giles/ChapterOne)
+🌱 I’m currently learning **JavaScript, Flask, React, AWS**
+💬 Ask me about **_Python_**
+📫 How to reach me **connor.giles@protonmail.com**
+⚡ **I love to travel, and think it has helped make me the person I am today**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
