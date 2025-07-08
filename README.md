@@ -7,9 +7,9 @@
 
 💬 Ask me about **Python**
 
-📫 How to reach me **connor.giles@protonmail.com**
+📫 Chat with me @ **connor.giles@protonmail.com**
 
-⚡ **I love to travel, and think it has helped make me the person I am today**
+⚡ I **love** to travel, and think it has helped make me the person I am today
 <br><br>
 
 ## 🌐 Socials:
