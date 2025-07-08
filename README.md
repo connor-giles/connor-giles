@@ -1,4 +1,4 @@
-<h2><img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+I'm+Connor;Have+a+look+around👀;&font=Fira%20Code¢er=true&width=700&height=70&size=43&pause=1700&duration=3000&color=F7F7F7" alt="connor-giles" /></h2>
+<h2><img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+I'm+Connor;Have+a+look+around+👀;&font=Fira%20Code¢er=true&width=700&height=70&size=43&pause=1700&duration=3000&color=F7F7F7" alt="connor-giles" /></h2>
 
 📖 I’m currently working on **ChapterOne**, my take on GoodReads™ | [Check it out here!](https://github.com/connor-giles/ChapterOne) <br>
 
