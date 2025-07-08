@@ -1,4 +1,4 @@
-<h2><img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+I'm+Connor;Have+a+look+around+my+page👀;&font=Fira%20Code¢er=true&width=700&height=70&size=43&pause=1700&duration=3000&color=F7F7F7" alt="connor-giles" /></h2>
+<h2><img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+I'm+Connor;Have+a+look+around👀;&font=Fira%20Code¢er=true&width=700&height=70&size=43&pause=1700&duration=3000&color=F7F7F7" alt="connor-giles" /></h2>
 
 📖 I’m currently working on **ChapterOne**, my take on GoodReads™ | [Check it out here!](https://github.com/connor-giles/ChapterOne) <br>
 
@@ -22,18 +22,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/connor-giles/ChapterOne" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=connor-giles&repo=ChapterOne&theme=dark" alt="ChapterOne repo" />
+      <a href="https://github.com/connor-giles/ChapterOne">
+        <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=connor-giles&repo=ChapterOne&theme=dark" alt="ChapterOne repo" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/connor-giles/raincheck" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=connor-giles&repo=raincheck&theme=dark" alt="raincheck repo" />
+      <a href="https://github.com/connor-giles/raincheck">
+        <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=connor-giles&repo=raincheck&theme=dark" alt="raincheck repo" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/connor-giles/Toss" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=connor-giles&repo=Toss&theme=dark" alt="Toss repo" />
+      <a href="https://github.com/connor-giles/Toss">
+        <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=connor-giles&repo=Toss&theme=dark" alt="Toss repo" />
       </a>
     </td>
   </tr>
