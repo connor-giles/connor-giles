@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Connor</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from Florida</h3>
 
 - 🔭 I’m currently working on [ChapterOne](https://github.com/connor-giles/ChapterOne)
 
 - 🌱 I’m currently learning **JavaScript, Flask, React, AWS**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **_Python_**
 
 - 📫 How to reach me **connor.giles@protonmail.com**
 
