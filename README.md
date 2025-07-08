@@ -1,5 +1,4 @@
 <h1 align="center">Hi👋, I'm Connor</h1>
-<h3 align="center">A passionate developer from Florida</h3>
 
 📖 I’m currently working on **ChapterOne**, my take on GoodReads™ | [Check it out here!](https://github.com/connor-giles/ChapterOne)
 
